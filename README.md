@@ -1,6 +1,6 @@
 # StudentPerformance
 Analyzing the student performance
-##Attributes
+## Attributes
 1) Gender - student's gender (nominal: 'Male' or 'Female’)
 2) Race/ethinicity - (5 groups: 'group A','group B','group C','group D','group E')
 3) parental level of education - (bacherlor's degree, 	some college, 	master's degree,associate's degree)
