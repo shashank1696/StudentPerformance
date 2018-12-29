@@ -14,11 +14,11 @@ Analyzing the student performance
 1) pandas
 2) numpy
 
-## Conclusions
-#### male = 48.2% and female = 51.8%
+## Conclusions:
+#### Male = 48.2% and Female = 51.8%
 #### GROUP A HAS 8.9%
 #### GROUP B HAS 19%
 #### GROUP D HAS 26.2%
 #### GROUP C HAS 31.9%
 #### GROUP E HAS 14%
-#### lunch with "standard" type is 64.5% and "free/reduced is 35.5%"
+#### Lunch with "Standard" type is 64.5% and "Free/Reduced is 35.5%"
