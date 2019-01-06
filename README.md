@@ -1,5 +1,6 @@
 # StudentPerformance
-Analyzing the student performance
+Analyzing the student performance in exams considering some relative factors.
+
 ## Attributes
 1) Gender - student's gender (nominal: 'Male' or 'Female’)
 2) Race/ethinicity - (5 groups: 'group A','group B','group C','group D','group E')
