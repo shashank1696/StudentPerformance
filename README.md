@@ -15,6 +15,10 @@ Analyzing the student performance in exams considering some relative factors.
 1) pandas
 2) numpy
 
+## Graphs:
+
+
+
 ## Conclusions:
 #### Male = 48.2% and Female = 51.8%
 #### GROUP A HAS 8.9%
