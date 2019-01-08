@@ -17,13 +17,13 @@ Analyzing the student performance in exams considering some relative factors.
 
 ## Graphs:
 ![studentperformance](https://user-images.githubusercontent.com/44108439/50859140-8652e300-13b8-11e9-8141-1cbe4439dceb.png)
-- Math score with respect to Reading and Writing Score
+- Math Score with respect to Reading and Writing Score
 
 ![studentperformance1](https://user-images.githubusercontent.com/44108439/50859149-8eab1e00-13b8-11e9-96d9-1e69e7c4eb51.png)
-- Gender with respect to Math, Reading and Writing Score
+- Gender(i.e., Male and Female) with respect to Math, Reading and Writing Score
 
 ![studentperformance2](https://user-images.githubusercontent.com/44108439/50859159-9a96e000-13b8-11e9-9cfc-48598fac8d8d.png)
-- test preparation course with respect to Math, Reading and Writing Score
+- Test Preparation course with respect to Math, Reading and Writing Score
 
 ## Conclusions:
 #### Male = 48.2% and Female = 51.8%
